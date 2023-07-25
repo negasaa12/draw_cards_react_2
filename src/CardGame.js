@@ -5,9 +5,11 @@ import Cards from "./Cards";
  const CardGame = () => {
 
 
+
+
     return (
         <>
-        <h1> Card Game </h1>
+        <h1 className="display-3 " > Card Game </h1>
 
         <Cards />
         </>
